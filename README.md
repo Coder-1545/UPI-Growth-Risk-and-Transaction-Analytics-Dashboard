@@ -54,7 +54,7 @@ The project uses two publicly available datasets from Kaggle.
 This dataset was used to analyze UPI growth trends, user transaction behavior, yearly transaction changes, and payment adoption patterns.
 
 ### Dataset Link
-[UPI Transactions 2024 Dataset](ADD_UPI_DATASET_LINK_HERE)
+[UPI Transactions 2024 Dataset](https://drive.google.com/drive/folders/1meuDRgb06nFX1w0gueaUZdGjYMP85Kl-?usp=sharing)
 
 ---
 
@@ -62,7 +62,7 @@ This dataset was used to analyze UPI growth trends, user transaction behavior, y
 This dataset was used for fraud analysis, transaction risk identification, payment method comparison, and system performance monitoring.
 
 ### Dataset Link
-[Online Payments Fraud Detection Dataset](ADD_FRAUD_DATASET_LINK_HERE)
+[Online Payments Fraud Detection Dataset](https://drive.google.com/drive/folders/1P9kqOIEDCIAAvI_Cc4V0GZ-LvJ5nA4Ix?usp=sharing)
 
 ---
 
@@ -230,7 +230,7 @@ These improvements would make the dashboard more scalable and production-ready.
 Due to GitHub file size limitations, the complete Power BI dashboard file is shared through Google Drive.
 
 ### Power BI File Link
-[Download Power BI Dashboard](ADD_POWERBI_DRIVE_LINK_HERE)
+[Download Power BI Dashboard](https://drive.google.com/file/d/1zNxj5fg1sNWKvE7OcWMRoJvXMws7f9AX/view?usp=sharing)
 
 ---
 
