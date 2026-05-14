@@ -206,7 +206,8 @@ These improvements would make the dashboard more scalable and production-ready.
 # 📷 Dashboard Screenshots
 
 ## 🟦 Executive Summary Dashboard
-![Executive Summary](screenshots/executive-summary-dashboard.png)
+<img width="975" height="541" alt="image" src="https://github.com/user-attachments/assets/df140084-76ff-4eb6-a5cb-88e879d0511c" />
+
 
 ---
 
