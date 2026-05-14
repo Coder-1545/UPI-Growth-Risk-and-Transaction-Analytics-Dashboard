@@ -206,23 +206,27 @@ These improvements would make the dashboard more scalable and production-ready.
 # 📷 Dashboard Screenshots
 
 ## 🟦 Executive Summary Dashboard
-<img width="975" height="541" alt="image" src="https://github.com/user-attachments/assets/df140084-76ff-4eb6-a5cb-88e879d0511c" />
+<img width="1584" height="892" alt="image" src="https://github.com/user-attachments/assets/487657a2-3113-401e-be71-c9644292b70c" />
+
 
 
 ---
 
 ## 🟩 UPI Growth & User Behavior Analysis
-![UPI Growth](screenshots/upi-growth-dashboard.png)
+<img width="949" height="524" alt="image" src="https://github.com/user-attachments/assets/c506e115-8aa4-4e7e-9f0c-f834a6afb923" />
+
 
 ---
 
 ## 🟥 Transaction Performance & System Analysis
-![Performance](screenshots/transaction-performance-dashboard.png)
+<img width="1324" height="737" alt="image" src="https://github.com/user-attachments/assets/ae26785d-1974-40c8-a737-a9dc8c9c7d49" />
+
 
 ---
 
 ## 🟪 Payment Comparison & Risk Insights
-![Risk Analysis](screenshots/risk-analysis-dashboard.png)
+<img width="1306" height="721" alt="image" src="https://github.com/user-attachments/assets/bc5d9d70-43a6-4103-99b5-b81c8c6c322d" />
+
 
 ---
 
